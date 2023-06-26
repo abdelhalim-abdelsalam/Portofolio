@@ -127,8 +127,8 @@ export const info = {
     },
     {
       title: "Project 3",
-      live: "https://paytonpierce.dev",
-      source: "https://github.com/paytonjewell",
+      live: "https://todolist.paytonpierce.dev/",
+      source: "https://github.com/abdelhalim-abdelsalam/to-do-list",
       image: mock3,
     },
     {
