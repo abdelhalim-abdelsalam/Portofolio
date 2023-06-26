@@ -60,7 +60,7 @@ export const info = {
       label: "instagram",
     },
     {
-      link: "https://github.com",
+      link: "https://github.com/abdelhalim-abdelsalam",
       icon: "fa fa-github",
       label: "github",
     },
@@ -77,7 +77,7 @@ export const info = {
     // Feel free to remove any of these that you don't have. I'll write an FAQ on how to add new ones later, let me know if you have a request for an icon!
     // Just change the links so that they lead to your social profiles.
   ],
-  bio: "Hello! I'm Halim. I'm a freelancer. I studied computer science at Harvard, I enjoy long walks on the beach, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
+  bio: "Hello! I'm Abd El-Halim. I'm a freelancer. I studied computer science at Harvard, I enjoy long walks on the beach, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
   skills: {
     proficientWith: [
       "javascript",
