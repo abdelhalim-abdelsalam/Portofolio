@@ -60,7 +60,7 @@ export const info = {
       label: "instagram",
     },
     {
-      link: "https://github.com/abdelhalim-abdelsalam",
+      link: "https://github.com/abdelhalim-abdelsalam?tab=repositories",
       icon: "fa fa-github",
       label: "github",
     },
