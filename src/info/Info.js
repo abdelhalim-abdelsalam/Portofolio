@@ -114,32 +114,32 @@ export const info = {
   portfolio: [
     // This is where your portfolio projects will be detailed
     {
-      title: "Project 1",
+      title: "Portfolio",
       live: "https://portofolio-two-swart.vercel.app/", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
       source: "https://github.com/abdelhalim-abdelsalam/Portofolio", // this should be a link to the **repository** of the project, where the code is hosted.
       image: mock1,
     },
     {
-      title: "Project 2",
+      title: "clock",
       live: "https://darkmodeclock.paytonpierce.dev/",
       source: "https://github.com/abdelhalim-abdelsalam/clock",
       image: mock2,
     },
     {
-      title: "Project 3",
+      title: "Todo List",
       live: "https://todolist.paytonpierce.dev/",
       source: "https://github.com/abdelhalim-abdelsalam/to-do-list",
       image: mock3,
     },
     {
-      title: "Project 4",
+      title: "Simple e-commerce",
       live: "https://eyesome-kappa.vercel.app/",
       source: "https://github.com/abdelhalim-abdelsalam/eyesome",
       image: sunglass,
     },
 
     {
-      title: "Project 5",
+      title: "List Movies API",
       live: "https://moviepedia.paytonpierce.dev/",
       source: "https://github.com/abdelhalim-abdelsalam/movies-list",
       image: mock5,
